@@ -1,0 +1,71 @@
+{
+  "id": "kraywell-laserllama-classes",
+  "name": "kraywell-laserllama-classes",
+  "title": "Kraywell Laserllama Classes RU",
+  "description": "Содержит в себе перевод классов от laserllama на русский язык.",
+  "authors": [
+    {
+      "name": "Kraywell"
+    }
+  ],
+  "version": "1.1.0",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packFolders": [
+    {
+      "name": "! Kraywell LaserLlama Classes",
+      "sorting": "m",
+      "color": "#850101",
+      "packs": [
+        "classes",
+        "archetypes",
+        "features",
+        "exploits"]
+    }
+  ],
+  "packs": [
+    {
+      "name": "classes",
+      "label": "! Laserllama Классы",
+      "path": "packs/classes",
+      "private": false,
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "archetypes",
+      "label": "! Laserllama Подклассы",
+      "path": "packs/archetypes",
+      "private": false,
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "features",
+      "label": "! Laserllama Особенности",
+      "path": "packs/features",
+      "private": false,
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "exploits",
+      "label": "! Laserllama Приёмы",
+      "path": "packs/exploits",
+      "private": false,
+      "entity": "Item",
+      "type": "Item",
+      "system": "dnd5e"
+    }
+   ],
+  "relationships": [],
+  "manifest": "https://github.com/Kraywell/Kraywell-laserllama-classes/releases/download/latest/module.json",
+  "download": "https://github.com/Kraywell/Kraywell-laserllama-classes/releases/download/latest/module.zip"
+}
